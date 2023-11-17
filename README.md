@@ -16,12 +16,6 @@
 ### [Views](/Views/)
 ### [Testing](/Testing/)
 
-
-
-
-
-
-
 For more commands and details, explore the sections mentioned above. Feel free to contribute by opening an issue or submitting a pull request!
 
 Happy coding with Laravel! 🚀✨
